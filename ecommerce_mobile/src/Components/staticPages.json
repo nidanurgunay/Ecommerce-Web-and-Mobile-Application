@@ -1,0 +1,26 @@
+{
+  "Menu Item": {
+    "Home Page": 0,
+    "Categories": 1,
+    "Favorites": 2,
+    "My Basket": 3,
+    "My Account": 4
+  },
+  "Header Item": {
+    "Women": 0,
+    "Men": 1,
+    "Sport": 2,
+    "Men Classic": 3,
+    "Women Court-Shoe": 4
+  },
+  "Global Items": {
+    "token": 0,
+    "email": 1,
+    "password": 2,
+    "gender": 3,
+    "name": 4,
+    "surname": 5,
+    "addresses": 6,
+    "creditcards": 7
+  }
+}
