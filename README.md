@@ -1,5 +1,10 @@
 # Ecommerce-Web-and-Mobile-Application
-Sabanci University Cs 308 Software Engineering lecture term project. As a course project, we had to be developing an online store, consisting of a website and a mobile application, which interact over the web to an application web-server. The essential details
+Sabanci University Cs 308 Software Engineering lecture term project. As a course project, we had to be developing an online store, consisting of a website and a mobile application, which interact over the web to an application web-server. 
+
+<img width="1414" alt="Screen Shot 2021-08-09 at 18 52 41" src="https://user-images.githubusercontent.com/48755655/128914489-0a15d91f-f4e8-47b4-945c-61382b0187fe.png">
+
+
+The essential details
 encompassing requirements are given as follows:
 
 ● The website and accompanying mobile app will present a number of products in
